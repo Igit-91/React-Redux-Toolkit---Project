@@ -1,0 +1,28 @@
+.searchBlock{
+    position: relative;
+    width: 250px;
+}
+
+.searchText input{
+    width: 100%;
+    height: 34px;
+    padding: 15px;
+    font-size: 17px;
+}
+
+.searchContent{
+    position: absolute;
+    top: 50px;
+    background: rgb(83, 25, 25);
+    width: 250px;
+    /* height: 650px; */
+}
+.searchFM{
+    border: 2px black solid;
+    padding: 5px;
+    color: white;
+}
+
+.searchFM img{
+    width: 50px;
+}

@@ -1,0 +1,9 @@
+.genBTN{
+    margin: 0 15px;
+    background: gold;
+    font-size: 15px;
+    padding: 5px;
+    min-width: 180px;
+    border-radius: 16px;
+    font-weight: 600;
+}
